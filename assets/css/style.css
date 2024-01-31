@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #18d26e;
+  color: darkgoldenrod;
   text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #2eafec;
+  background: darkgoldenrod;
   color: #fff;
 }
 
@@ -118,7 +118,7 @@ h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: teal;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -131,7 +131,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background:teal;
+  background:darkgoldenrod;
   color: #fff;
   text-decoration: none;
 }
@@ -363,7 +363,7 @@ section {
 
 .about img {
  border-radius: 25px;
- margin-top: 50px;
+ margin-top: 5px;
 }
 
 .about .content h3 {
@@ -876,11 +876,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color:teal;
+  color:white;
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: teal;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -934,7 +934,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background:teal;
+  background:darkgoldenrod;
   color: #fff;
 }
 
@@ -1031,7 +1031,7 @@ section {
 }
 
 .contact .contact-form button[type=submit]:hover {
-  background: #37b3ed;
+  background: darkgoldenrod;
 }
 
 @keyframes animate-loading {
